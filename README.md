@@ -63,3 +63,5 @@ Apresentação sobre Arquitetura de Integrações realizada no dia 03/07/2025. T
 - Java: https://docs.oracle.com/en/java/
 - Python: https://docs.python.org/3/
 - Node.js: https://nodejs.org/en
+- SQL Server: https://www.microsoft.com/en-us/sql-server
+- PostgreSQL: https://www.postgresql.org/
