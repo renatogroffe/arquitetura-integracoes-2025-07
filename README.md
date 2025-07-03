@@ -52,9 +52,11 @@ Apresentação sobre Arquitetura de Integrações realizada no dia 03/07/2025. T
 - SonarQube: https://docs.sonarsource.com/
 - Checkov: https://www.checkov.io/
 - Kubescape: https://kubescape.io/
-- Grafana k6: https://k6.io/
+- Traefik Proxy: https://traefik.io/traefik
 - OpenTelemetry: https://opentelemetry.io/
+- Grafana k6: https://k6.io/
 - Postman: https://learning.postman.com/docs/introduction/overview/
+- Testcontainers: https://testcontainers.com/
 - Bash: https://www.gnu.org/software/bash/manual/bash.html
 - PowerShell: https://learn.microsoft.com/en-us/powershell/
 - .NET: https://learn.microsoft.com/en-us/dotnet/
