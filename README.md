@@ -3,6 +3,10 @@ Apresentação sobre Arquitetura de Integrações realizada no dia 03/07/2025. T
 
 ---
 
+## Arquitetura de referência
+
+![alt](docs/arquitetura-integracoes.png)
+
 ## Tecnologias e práticas empregadas
 
 ### APIs
@@ -67,3 +71,6 @@ Apresentação sobre Arquitetura de Integrações realizada no dia 03/07/2025. T
 - PostgreSQL: https://www.postgresql.org/
 - Redis: https://redis.io/
 - MongoDB: https://www.mongodb.com/
+- Semantic Kernel: 
+- MCP Servers: 
+- Azure AI Foundry: 
