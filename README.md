@@ -71,6 +71,6 @@ Apresentação sobre Arquitetura de Integrações realizada no dia 03/07/2025. T
 - PostgreSQL: https://www.postgresql.org/
 - Redis: https://redis.io/
 - MongoDB: https://www.mongodb.com/
-- Semantic Kernel: 
-- MCP Servers: 
-- Azure AI Foundry: 
+- Semantic Kernel: https://learn.microsoft.com/en-us/semantic-kernel/overview/
+- MCP Servers: https://docs.anthropic.com/en/docs/mcp
+- Azure AI Foundry: https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry
