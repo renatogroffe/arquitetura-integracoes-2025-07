@@ -1,5 +1,5 @@
 # arquitetura-integracoes-2025-07
-Apresentação sobre Arquitetura de Integrações realizada no dia 03/07/2025. Tecnologias e tópicos abordados: Kubernetes, Docker, Azure DevOps, APIOps, GitOps, Linux, Azure, Apache Camel...
+Apresentação sobre Arquitetura de Integrações realizada no dia 03/07/2025. Tecnologias e tópicos abordados: Kubernetes, Docker, Azure DevOps, APIOps, GitOps, Linux, Azure, Apache Camel, Inteligência Artificial...
 
 ---
 
